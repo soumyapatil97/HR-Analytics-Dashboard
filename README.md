@@ -2,13 +2,13 @@
 Power BI HR Analytics Dashboard providing insights into employee attrition and workforce trends. The dashboard highlights key HR metrics such as employee count, attrition rate, average age, salary, and tenure.
 HR Analytics Dashboard in Power BI
 
-## 📊 Project Overview
+ Project Overview
 
 This project is a comprehensive HR Analytics Dashboard built using Power BI. The goal is to provide a clear and interactive overview of key human resources metrics, with a primary focus on understanding employee attrition. By transforming raw employee data into actionable insights, this dashboard helps stakeholders identify trends, pinpoint problem areas, and make data-driven decisions to improve employee retention.
 
 ---
 
-## 🎯 Key Objectives & Problem Statement
+ Key Objectives & Problem Statement
 
 The primary objective was to analyze the employee dataset of a company to uncover the factors leading to employee attrition. The key business questions this dashboard answers are:
 
@@ -18,8 +18,7 @@ The primary objective was to analyze the employee dataset of a company to uncove
 * How do performance ratings correlate with employee turnover?
 
 ---
-
-## 🛠️ Tech Stack & Tools
+ Tech Stack & Tools
 
 * **Data Analysis:** DAX (Data Analysis Expressions)
 * **Data Transformation (ETL):** Power Query
@@ -28,7 +27,7 @@ The primary objective was to analyze the employee dataset of a company to uncove
 
 ---
 
-## 🔄 Project Workflow
+Project Workflow
 
 1.  **Data Loading and Cleaning:** Imported the dataset into Power BI. Used Power Query Editor to handle missing values, remove duplicates, and correct data types for consistency and accuracy.
 
@@ -49,7 +48,7 @@ The primary objective was to analyze the employee dataset of a company to uncove
 
 ---
 
-## ✨ Key Features & Insights
+ Key Features & Insights
 
 * **Interactive Filters:** Users can dynamically filter the entire report by Department, Job Role, Gender, and more.
 * **Attrition Analysis:** Identified that [e.g., the Sales department has the highest attrition rate, and employees with lower job levels are more likely to leave].
